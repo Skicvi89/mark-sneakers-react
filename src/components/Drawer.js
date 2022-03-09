@@ -23,7 +23,7 @@ function Drawer({onClose, items =[]}){
               <li >
                 <span>Итого</span>
                 <div></div>
-                <b>21 498 руб.</b>
+                <b>21 498 руб</b>
               </li>
               <li >
                 <span>Налог 5%</span>
